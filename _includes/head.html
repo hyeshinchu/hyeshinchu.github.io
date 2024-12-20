@@ -29,7 +29,8 @@
   <!-- Opengraph -->
   <meta property="og:title" content="Hyeshin Chu">
   <meta property="og:description" content="HCI researcher | AI Product Manager at SNOW Corporation">
-  <meta property="og:image" content="{{ '/assets/images/main/hyeshin.jpg' | relative_url }}">
+  <meta property="og:image" content="{% if page.url == '/' %}{{ '/assets/images/main/hyeshin.jpg' | relative_url }}{% else %}{{ '/assets/images/main/hyeshin.jpg' | relative_url }}{% endif %}">
+
 
 
   <!-- Google scholar -->
