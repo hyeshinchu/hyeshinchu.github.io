@@ -9,7 +9,7 @@ google_analytics_id: UA-215543768-1
 show_excerpts: false # set to true to show excerpts on the homepage
 permalink: /:title
 
-url: "https://donghoon.io" # the base hostname & protocol for your site
+baseurl: /
 
 plugins:
  - jekyll-feed
