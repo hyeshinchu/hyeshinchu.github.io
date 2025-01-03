@@ -10,4 +10,4 @@
 2. Wait for a few minutes
 3. It will be live!
 
-This theme is based on the theme made by [Donghoon Shin](https://donghoon.io) (University of Washington). Special thanks to Donghoon for sharing this amazing template!
+This portfolio is based on the theme made by [Donghoon Shin](https://donghoon.io) (University of Washington). Special thanks to Donghoon for sharing this amazing template!
